@@ -1,53 +1,46 @@
-# 3-column preview basic git-GitHub
+# Getting Started with Create React App
 
-## Description
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-- Author: @reffting
-- Repository name: `repository-name/sub-name`
-- Tags: `CSS`, `RWD`, `HTML`, `FIGMA`
-- Achievements:
-  - Figma Basics
-  - Git / GitHub
-  - HTML
-  - CSS
-    - Basic
-    - Responsive Web Design (RWD)
+## Available Scripts
 
----
+In the project directory, you can run:
 
-## The Challenge
+### `npm start`
 
-### Briefing
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-- Your challenge is to build out this 3-column preview card component and get it looking as close to the design as possible.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-- [Frontend Mentor Base](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
+### `npm test`
 
-- While you’re doing that we’ll create new `branches` for each new piece of your website, then send it to GitHub when the code is done, and open **Code Review.** The goal is to get used to the development cycle.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- **Your users should be able to:**
-  - View the optimal layout depending on their device's screen size
-  - See hover states for interactive elements
+### `npm run build`
 
-### Acceptance Criteria
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- [ ] View the optimal layout depending on their device's screen size
-- [ ] See hover states for interactive elements
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Tips
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- Apply BEM CSS name convention.
-- Use flexbox and media queries to make the page responsive.
-- Use CSS relative units instead of absolute units (use `rem` instead of `px`).
-- **BONUS**: use CSS variables for the colors to reuse the values and make the code more readable.
+### `npm run eject`
 
----
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-## Resources
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### Links
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-- [HTML](https://www.notion.so/HTML-bb4adb5992914407abcb31442fa8e6f1)
-- [CSS](https://www.notion.so/CSS-ed673e98698e451491b47e1349a5ecba)
-- [Figma](https://www.notion.so/Figma-5377f1eeb90d4986889765b961b5c655)
-- [Git](https://www.notion.so/Git-c8011ab55c444ba28a9df713f86e55e9)
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
